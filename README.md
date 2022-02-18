@@ -1,5 +1,10 @@
-Dash Core staging tree 0.17
-===========================
+-------------------------
+### Run dash-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
 
 |CI|master|develop|
 |-|-|-|
